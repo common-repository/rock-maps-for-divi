@@ -1,0 +1,390 @@
+# Copyright (C) 2023 Quaira
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rock Maps for Divi 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/divi-rock-maps\n"
+"POT-Creation-Date: 2023-09-08 14:37:58+00:00\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:110
+msgid "5"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:90
+msgid "Divi Rock Maps"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:113
+msgid "Map Settings"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:119
+msgid "Map GDPR"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:133
+msgid "Map Provider"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:136
+msgid "Select your default provider map provider"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:138
+msgid "Leaflet (OpenStreetMap) "
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:139
+msgid "Google Maps"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:152
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:155
+msgid "Put your Google maps API KEY"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:160
+msgid "Expose All ACF Group Fields to REST API"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:163
+msgid ""
+"If you want to expose all ACF group fields to REST API, turn this on. "
+"Otherwise, if you turn it off\n"
+"\t\t\t\tthe Rest Api exposure will also be turned off for each ACF group "
+"field. You can always adjust this setting\n"
+"\t\t\t\tmanually through ACF Field Groups page and leverage only the ACF "
+"Group Fileds you are using at\n"
+"\t\t\t\tyour Dynamic Map Modules"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:184
+msgid "Enable GDPR"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:187
+msgid "If you want to enable GDPR, turn this on. Otherwise, if you turn it off"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:194
+msgid "Title"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:197
+msgid "Title GDPR"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:205
+msgid "Button Label"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:208
+msgid "Button Label GDPR"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:216
+msgid "Enable Always Unblock"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:219
+msgid "Enable Always Unblock GDPR"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:227
+msgid "Always Unblock Label"
+msgstr ""
+
+#: includes/class-dirm-divirockmaps.php:230
+msgid "Always unblock GDPR Label"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:67
+msgid "Map Center Type"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:76
+msgid "Map center type"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:79
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:85
+msgid "Map Center Latitude"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:90
+msgid "Map Center Longitude"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:96
+msgid "Map center longitude"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:101
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:113
+msgid "Map zoom"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:116
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:467
+msgid "Preloader Icon"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:125
+msgid "Preloader Icon Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:130
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:246
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:133
+msgid "Preloader Icon Circle"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:136
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:160
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:183
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:252
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:276
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:299
+msgid "No"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:137
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:161
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:184
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:253
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:277
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:300
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:146
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:262
+msgid "Here you can choose whether icon should display within a circle."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:149
+msgid "Preloader Icon Circle Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:154
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:270
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:157
+msgid "Preloader Icon Show Circle Border"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:169
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:285
+msgid "Here you can choose whether the icon circle border should display."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:172
+msgid "Preloader Icon Border Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:177
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:293
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:180
+msgid "Preloader Icon Use Font Size"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:194
+msgid "Preloader Icon Font Size"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:223
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:471
+msgid "Preloader Label"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:226
+msgid "Loading ..."
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:232
+msgid "No Results Found Icon"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:241
+msgid "No Results Found Icon Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:249
+msgid "No Results Found Icon Circle"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:265
+msgid "No Results Found Icon Circle Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:273
+msgid "No Results Found Icon Show Circle Border"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:288
+msgid "No Results Found Icon Border Color"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:296
+msgid "No Results Found Icon Use Font Size"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:310
+msgid "No Results Found Icon Font Size"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:339
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:429
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:479
+msgid "No Results Found Label"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:342
+msgid "no results"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:360
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:118
+msgid "Preloader"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:361
+msgid "No Results Found"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:362
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:120
+msgid "Content"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:363
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:121
+msgid "Background"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:364
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:100
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:122
+msgid "Admin Label"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:369
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:127
+msgid "Icons"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:416
+msgid "Preloader label"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:446
+msgid "Height"
+msgstr ""
+
+#: includes/modules/StaticMap/class-dirm-divirockstaticmap.php:475
+msgid "No Results Found icon"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:52
+msgid "Field"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:64
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:168
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:208
+msgid "Marker Title"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:70
+msgid "Marker title"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:73
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:181
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:212
+msgid "Marker Description"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:79
+msgid "Marker description"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:82
+msgid "Marker Latitude"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:88
+msgid "Marker latitude"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:91
+msgid "Marker Longitude"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:97
+msgid "Marker longitude"
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:102
+msgid ""
+"This will change the label of the item in the builder for easy "
+"identification."
+msgstr ""
+
+#: includes/modules/StaticMapMarker/class-dirm-divirockstaticmapmarker.php:119
+msgid "No results found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rock Maps for Divi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.elegantthemes.com/marketplace/divi-rock-maps/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Rock Maps for Divi is a powerful Divi plugin that allows you to create "
+"custom maps with multiple markers and custom popups."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quaira"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://quaira.com"
+msgstr ""
